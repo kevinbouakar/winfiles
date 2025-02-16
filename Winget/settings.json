@@ -1,0 +1,21 @@
+{
+    "$schema": "https://aka.ms/winget-settings.schema.json",
+    // For documentation on these settings, see: https://aka.ms/winget-settings
+        "source": {
+        "autoUpdateIntervalInMinutes": 5
+    },
+    "visual": {
+        "progressBar": "rainbow"
+    },
+    "installBehavior": {
+        "portablePackageUserRoot": "C:\\Users\\elio\\AppData\\Local\\Microsoft\\WinGet\\Packages",
+        "preferences": {
+            "scope": "user",
+            "architectures": ["x64"],
+            "locale": [ "en-US" ]
+        }
+    },
+    "uninstallBehavior": {
+        "purgePortablePackage": true
+    }
+}

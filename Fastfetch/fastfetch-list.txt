@@ -1,0 +1,21 @@
+Fast Fetch Components List:
+
+User
+OS
+Kernel
+UpTime
+Packages
+
+Shell
+Terminal
+Terminal Font
+Window Manager
+Desktop Environment
+
+CPU
+GPU
+Memory (RAM)
+
+Date & Time
+Weather
+Misc Stuff & Custom Commands

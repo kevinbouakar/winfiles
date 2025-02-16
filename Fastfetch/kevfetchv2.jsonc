@@ -1,0 +1,89 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "display": {
+        "separator": " "
+    },
+    "logo": {
+        "source": "C:\\Users\\elio\\.config\\fastfetch\\img\\ascii-anime.txt",
+        "height": 20,
+        "color": {
+            "1": "red"
+        }
+    },
+    "modules": [
+        {
+            "key": "\uf007 ",
+            "keyColor": "38;5;188",
+            "type": "title",
+            "format": "kevin"
+        },
+        {
+            "key": "\uf108 ",
+            "keyColor": "38;5;210",
+            "type": "os"
+        },
+        {
+            "key": "\uf017 ",
+            "type": "uptime"
+        },
+        {
+            "key": "\uf409 ",
+	        "keyColor": "38;5;200",
+            "type": "packages"
+        },
+        {
+            "key": "\uf489 ",
+            "keyColor": "38;5;147",
+            "type": "shell"
+        },
+        // {
+        //     "type": "break"
+        // },
+        // {
+        //     "type": "custom",
+        //     "format": "-------------"
+        // },
+        // {
+        //     "type": "break"
+        // },
+        {
+            "key": "\udb84\udcac ",
+            "keyColor": "38;5;44",
+            "type": "wm"
+        },
+        {
+	    "key": "\uf108 ",
+	    "keyColor": "38;5;61",
+       	    "type": "de"
+	    },
+        {
+            "key": "\ue659 ",
+            "keyColor": "38;5;75",
+            "type": "terminalfont"
+        },
+        {
+            "key": "\udb80\udf5b ",
+            "keyColor": "38;5;123",
+            "type": "memory"
+        },
+        {
+            "key": "\udb81\udd95 ",
+            "keyColor": "38;5;175",
+	        "type": "weather",
+            "location": "Beirut"
+        },
+        {
+            "key": "\ue709 ",
+            "keyColor": "38;4;22",
+            "type": "custom",
+            "format": "kevinbouakar"
+        },
+        {
+            "type": "break"
+        },
+        {
+            "type": "colors"
+        }
+    ]
+}
+

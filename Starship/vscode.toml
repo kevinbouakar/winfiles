@@ -1,0 +1,18 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+add_newline = true
+
+format = "$directory $character"
+
+[character]
+success_symbol = '[❯](bold green)'
+
+[package]
+disabled = true
+
+[directory]
+    truncation_length = 1
+    truncate_to_repo = true
+    style = "blue"
+    format = "[  ..$path]($style)[$read_only]($read_only_style)"
+    home_symbol = "~"
+    # home_symbol = "\uf015"
